@@ -17,6 +17,7 @@
   <img align="center" alt="abdel-Figma" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
   <img align="center" alt="abdel-Illustrator" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" >
   <img align="center" alt="abdel-Illustrator" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
+
            
 </div>
 
@@ -26,3 +27,6 @@
 <div>
     <a href="https://instagram.com/abdeellucena" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
+
+
+  ![Snake animation](https://github.com/Abdeellucena/Abdeellucena/blob/github-contribution-grid-snake.svg)
