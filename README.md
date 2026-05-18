@@ -1,4 +1,4 @@
-````md
+
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=32&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Abdeel+Lucena;Full+Stack+Developer;UI%2FUX+Designer;React+%7C+Node+%7C+Design+Premium" />
@@ -136,4 +136,4 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdeellucena
 ### ✨ “Transformando ideias em experiências digitais.”
 
 </div>
-````
+
