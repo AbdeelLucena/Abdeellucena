@@ -55,44 +55,9 @@ const abdeel = {
 
 <div align="center">
 
-<img align="center" alt="JavaScript" height="55" width="55"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-
-<img align="center" alt="TypeScript" height="55" width="55"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-
-<img align="center" alt="React" height="55" width="55"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-
-<img align="center" alt="HTML" height="55" width="55"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-
-<img align="center" alt="CSS" height="55" width="55"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-
-<img align="center" alt="Tailwind" height="55" width="55"
-src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg">
-
-<img align="center" alt="NodeJS" height="55" width="55"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-
-<img align="center" alt="Python" height="55" width="55"
-src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-
-<img align="center" alt="PostgreSQL" height="55" width="55"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
-
-<img align="center" alt="Figma" height="55" width="55"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
-
-<img align="center" alt="Photoshop" height="55" width="55"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
-
-<img align="center" alt="Illustrator" height="55" width="55"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg">
+<img src="https://skillicons.dev/icons?i=js,ts,react,html,css,tailwind,nodejs,python,postgres,figma,ps,ai" />
 
 </div>
-
 ---
 
 # 🌌 Atualmente
